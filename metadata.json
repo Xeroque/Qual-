@@ -1,0 +1,6 @@
+{
+  "name": "Which One",
+  "description": "A dual-stack visual preference voting arena and ranked picture dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
